@@ -1,6 +1,9 @@
-/**DSW Algorithm for balancings an existing BST.
+/**DSW Algorithm for balancing an existing BST.
 *  Time Complexity: O(n)
 *  Space Complexity: O(1)
+*
+*  Author: Isai Damier (geekpointview.com), Adam Clifton
+*  Version: 2018.11.07
 */
 
 public void balance() {
